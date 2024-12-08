@@ -1,0 +1,4 @@
+.vs/
+BeatCounter/obj/
+BeatCounter/bin/
+!BeatCounter/bin/Release/counter.ini
